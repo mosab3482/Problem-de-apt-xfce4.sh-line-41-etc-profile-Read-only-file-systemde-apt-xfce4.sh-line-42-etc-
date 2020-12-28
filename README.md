@@ -1,0 +1,1 @@
+# Problem-de-apt-xfce4.sh-line-41-etc-profile-Read-only-file-systemde-apt-xfce4.sh-line-42-etc-
